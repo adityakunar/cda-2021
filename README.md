@@ -1,7 +1,7 @@
 Cyber Data Analytics Project-
 
-This repostory consists of the following topics-
-1) Assignment 1-  Learned about dealing with class imbalanance and applying ML techniques and creating vis for credit fraud.
-2) Assignment 2-  Did anomoly detection for a water plant data based on ARMA and PCA techniques. 
-3) Assignment 3-  Detect anomolies in network traffic data. Understood how to use hashing to do counting etc. 
+This repository consists of the following topics-
+1) Assignment 1-  Learned how to dealing with class imbalance using SMOTE and applied ML techniques for credit fraud detection.
+2) Assignment 2-  Executed anomoly detection for time-series using ARMA and PCA techniques. 
+3) Assignment 3-  Detected anomolies in network traffic data and understood how to use hashing for counting occurances of unique events in large streams of data. 
 4) Assignment 4-  Made use of adversarial machine learning to deal with adversarially modified samples using dfgsm.
